@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "f4163b6653c91c01036e2625",
+  "owner": "yynhkmfhy",
+  "repo": "page-f21cb9863b7e182e4a05d588",
+  "title": "RabbitPro",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f21cb9863b7e182e4a05d588",
+      "a": "RabbitPro",
+      "b": "2027官方最新地址导航",
+      "entity": "RabbitPro",
+      "brand": "RabbitPro",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "071213f2b4a49fe2b50cb109da2275aecf62aefc886c38f1bdce04de693bdeee",
+      "content": {
+        "primary_entity": "RabbitPro",
+        "keyword1": "RabbitPro",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_DESCRIPTION": "，RabbitPro 提供按月或按年订阅的海外加速方案，覆盖基础版、旗舰版与团队版。基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB 流量、支持 5 台设备并含 IPLC 专线；团队版每月 1000GB 流量、支持 20 台设备，适合小型协作场景。订阅后按客户端文档导入配置即可使用，年付可节省两个月费用。",
+          "AI_HERO_SUBTITLE": "RabbitPro 海外加速订阅选择",
+          "AI_HERO_INTRO": "RabbitPro 面向需要稳定海外网络访问的用户，提供不同流量与设备数量的订阅方案。基础版适合单人轻度使用，旗舰版兼顾流媒体与游戏加速，团队版满足多设备协作需求。按月或按年付费均可，按年订阅更划算。",
+          "AI_VISUAL_TITLE": "RabbitPro 加速方案",
+          "AI_HIGHLIGHT_1": "三档套餐按流量区分",
+          "AI_HIGHLIGHT_2": "设备数量随版本递增",
+          "AI_HIGHLIGHT_3": "年付价格更优惠",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURES_INTRO": "根据日常流量和设备数量选择版本，再决定订阅周期。",
+          "AI_FEATURE_TITLE_1": "按月灵活订阅",
+          "AI_FEATURE_TEXT_1": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月，可随时切换周期。",
+          "AI_FEATURE_TITLE_2": "年付更省",
+          "AI_FEATURE_TEXT_2": "基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，比月付更划算。",
+          "AI_FEATURE_TITLE_3": "按设备匹配版本",
+          "AI_FEATURE_TEXT_3": "3 台设备选基础版，5 台选旗舰版，20 台选团队版，避免超出限制。",
+          "AI_CLIENTS_TITLE": "客户端按设备选择",
+          "AI_CLIENTS_INTRO": "先在对应设备上安装订阅客户端，再导入 RabbitPro 配置。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版适合单人轻度浏览，旗舰版面向流媒体与游戏加速，团队版支持多设备高流量使用。参考 fixed_plans 中的流量与设备数量做选择。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "按服务选择、适配确认与订阅配置的顺序完成设置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据流量和设备数量从基础版、旗舰版或团队版中选择合适方案。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认当前设备系统与订阅客户端是否满足所选版本的使用条件。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照所用客户端的导入说明，将 RabbitPro 订阅信息配置到设备中。",
+          "AI_CLOSING_TITLE": "选对版本更省心",
+          "AI_CLOSING_TEXT": "按设备数量与流量需求挑好套餐，再完成订阅配置即可开始使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "RabbitPro 的套餐可以随时更换吗？",
+          "AI_FAQ_ANSWER_1": "套餐通常按计费周期生效，升级或更换版本一般在下个周期或按服务方规则处理，建议在续费前根据新周期需求调整。",
+          "AI_FAQ_QUESTION_2": "一个套餐可以同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。超出数量时其他设备可能无法同时连接。",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付按每月价格支付，年付更省：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，相当于十个月价格。",
+          "AI_FAQ_QUESTION_4": "订阅信息如何导入客户端？",
+          "AI_FAQ_ANSWER_4": "在所选客户端中找到订阅或配置导入入口，粘贴订阅信息后更新节点列表，具体步骤以该客户端文档为准。",
+          "AI_FAQ_QUESTION_5": "IPLC 专线适合什么场景？",
+          "AI_FAQ_ANSWER_5": "旗舰版包含 IPLC 专线游戏加速优化，适合对延迟较敏感的游戏、实时音视频等场景，团队版还支持企业定制路由。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "shsbr.cn",
+    "host": "shsbr.cn"
+  },
+  "file_hashes": {
+    "index.html": "794c819386f9e692746c79ee9485f201ab6e86f4d46500e7882a742cf4b2e6ee",
+    "sitemap.xml": "e4a193c45fff39eaa812eb5c68a8e9561d41b9159ed932e3c4b67c91bd391cd9",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d624d7cba06498e0ee63ae6ca0e80c1c8783ad477fd6f246276a77af63da70b4",
+    "robots.txt": "6b172ae56ca103d297e097108784900ccadfdc3d02d0cffb48d63be5ecc6e5c3",
+    "bc6a1e582b4841b8c510446c95114980.txt": "dcd7dcca58e8c212a3449ec5506ff4c61f0380676281f59903bf35f6f198ba4c"
+  },
+  "revision": "24d8225a1335acaa0091f6c20c692dfe0f1a6cdcb607cd92224ace8b45acb7c3"
+}
